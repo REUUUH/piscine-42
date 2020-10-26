@@ -1,0 +1,5 @@
+Credentials cache: API:1475403D-8F57-4992-A5BA-2ACFD6CA3358
+        Principal: souassin@42.FR
+
+  Issued                Expires               Principal
+Oct 12 15:16:50 2020  Oct 19 15:16:43 2020  krbtgt/42.FR@42.FR
