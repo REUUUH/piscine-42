@@ -6,7 +6,7 @@
 /*   By: souassin <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/10/27 12:38:33 by souassin          #+#    #+#             */
-/*   Updated: 2020/10/28 10:03:28 by souassin         ###   ########.fr       */
+/*   Updated: 2020/10/28 10:25:17 by souassin         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -29,7 +29,7 @@ void	ft_putstr(char *str)
 	}
 }
 
-int	main(int argc, char **argv)
+int		main(int argc, char **argv)
 {
 	int i;
 
