@@ -6,10 +6,10 @@
 /*   By: souassin <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/10/27 12:38:33 by souassin          #+#    #+#             */
-/*   Updated: 2020/10/27 15:54:58 by souassin         ###   ########.fr       */
+/*   Updated: 2020/10/28 10:03:28 by souassin         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-	
+
 #include <unistd.h>
 
 void	ft_putchar(char c)
@@ -31,7 +31,7 @@ void	ft_putstr(char *str)
 
 int	main(int argc, char **argv)
 {
-	int i; 
+	int i;
 
 	i = 1;
 	(void)argc;

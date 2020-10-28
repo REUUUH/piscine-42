@@ -6,7 +6,7 @@
 /*   By: souassin <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/10/27 15:55:55 by souassin          #+#    #+#             */
-/*   Updated: 2020/10/27 16:37:00 by souassin         ###   ########.fr       */
+/*   Updated: 2020/10/28 10:04:04 by souassin         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -33,7 +33,7 @@ int	main(int argc, char **argv)
 {
 	int i;
 
-	i = argc - 1;	
+	i = argc - 1;
 	while (i != 0)
 	{
 		ft_putstr(argv[i]);
